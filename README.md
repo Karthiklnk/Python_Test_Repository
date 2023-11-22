@@ -1,6 +1,6 @@
 # Introductory Python Data Manipulation Project
 
-This is introductory project in python to understand the basics of manipulating data in Python and uploading the data to MySQL workbench. The project utilizes the libraries - pandas (for manipulating and analyzing data, pandas has data structures like DataFrames for efficient handling and examination of tabular data), matplotlib.pyplot and sqlalchemy (libraries is used to create static, animated, and interactive visualizations) and pymysql (A Python MySQL database adapter facilitating communication between Python applications and MySQL databases).
+This is an introductory project in python to understand the basics of manipulating data in Python and uploading the data to MySQL workbench. The project utilizes the libraries - pandas (for manipulating and analyzing data, pandas has data structures like DataFrames for efficient handling and examination of tabular data), matplotlib.pyplot and sqlalchemy (libraries is used to create static, animated, and interactive visualizations) and pymysql (A Python MySQL database adapter facilitating communication between Python applications and MySQL databases).
 
 ## Getting Started
 
