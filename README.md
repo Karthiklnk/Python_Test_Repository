@@ -68,8 +68,8 @@ This data is loaded into the Juypter Notebook environment
 
 ## Authors
 
-Narahara Karthik L - [Karthiklnk](https://github.com/Karthiklnk)
-Pavan Kumar Valluri - [https://in.linkedin.com/in/valluri-pavan-kumar-b96702127]
+* Narahara Karthik L - [Karthiklnk](https://github.com/Karthiklnk)
+* Pavan Kumar Valluri - [https://in.linkedin.com/in/valluri-pavan-kumar-b96702127]
 
 ## License
 
