@@ -77,4 +77,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-Many thanks and great acknowledgments to Professor Omar Al-Trad, Ph.D.
+### Many thanks and great acknowledgments to Professor Omar Al-Trad, Ph.D.
